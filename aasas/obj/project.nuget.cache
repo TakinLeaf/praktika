@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kd48tHkbfPiQiypGgCahoBd3+444G1H8FwvSS3LHHv9KJugNJvSpt/XShonBaRbL0BlKi9T3Emjr/kKBzprD5Q==",
+  "success": true,
+  "projectFilePath": "/home/user/Рабочий стол/aasas/aasas.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

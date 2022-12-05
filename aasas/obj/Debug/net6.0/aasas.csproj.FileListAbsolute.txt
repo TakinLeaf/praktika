@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/aasas/bin/Debug/net6.0/aasas
+/home/user/Рабочий стол/aasas/bin/Debug/net6.0/aasas.deps.json
+/home/user/Рабочий стол/aasas/bin/Debug/net6.0/aasas.runtimeconfig.json
+/home/user/Рабочий стол/aasas/bin/Debug/net6.0/aasas.dll
+/home/user/Рабочий стол/aasas/bin/Debug/net6.0/aasas.pdb
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.AssemblyInfo.cs
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.dll
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/refint/aasas.dll
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.pdb
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/aasas.genruntimeconfig.cache
+/home/user/Рабочий стол/aasas/obj/Debug/net6.0/ref/aasas.dll
